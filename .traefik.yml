@@ -1,7 +1,7 @@
 displayName: hello plugin
 type: middleware
 
-import: github.com/worldline-go/traefik-plugin-hello
+import: github.com/intaacopilot/hellotest
 
 summary: '[hello] A message returner.'
 

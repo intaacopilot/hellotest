@@ -1,3 +1,3 @@
-module github.com/worldline-go/traefik-plugin-hello
+module github.com/intaacopilot/hellotest
 
 go 1.17

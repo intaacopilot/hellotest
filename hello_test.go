@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"testing"
 
-	traefik_plugin_hello "github.com/worldline-go/traefik-plugin-hello"
+	traefik_plugin_hello "github.com/intaacopilot/hellotest"
 )
 
 func TestHello(t *testing.T) {
