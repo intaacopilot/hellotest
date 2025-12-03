@@ -1,0 +1,12 @@
+displayName: hello plugin
+type: middleware
+
+import: github.com/worldline-go/traefik-plugin-hello
+
+summary: '[hello] A message returner.'
+
+testData:
+  message: "I will ask you to write another 10 points there."
+  statusCode: 200
+  headers:
+    Content-Type: "text/plain"
