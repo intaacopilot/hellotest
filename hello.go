@@ -1,5 +1,5 @@
 // Package traefik_plugin_hello return message, status code and headers with configuration and request query parameters.
-package traefik_plugin_hello
+package hellotest
 
 import (
 	"context"
